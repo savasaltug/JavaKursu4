@@ -1,0 +1,12 @@
+Ekteki Tasarima gére gerekli modilleri yaziniz.
+Sonra bir main metodunda, TeslaCar dan, ToyotaPirus
+dan ve cityBus dan birer nesne Gretiniz.
+
+= Urettiginiz nesneleri bir Arrayliste ekletip, daha sonra
+bu ArrayList i bir dongu ile metodlarini ekrana yazdiriniz.
+
+
+
+engine (double)
+model (String)
+metodlarin hepsinin tipi String

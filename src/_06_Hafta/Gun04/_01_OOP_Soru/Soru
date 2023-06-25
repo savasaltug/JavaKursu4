@@ -1,0 +1,12 @@
+
+
+id(int) ,isim(string), vahsi(boolean), dogunTarihi (String) fieldlara olan ve
+void yiyecegi, void yenekMiktari, void gunlukUykuSuresi ve void sesi isimlerinde abstract metodlari,
+toString seklinde normal metodu ve get ve set leri olan Hayvan isminde
+
+bir abstract class yaziniz.
+
+Kedi, kartal seklinde 2 tane extend alacak normal class yaziniz.
+Main de 1 er nesne olusturup, degerlerini atayzp, yazdiriniz.
+
+Benzersiz ID Leri olmala, buna gére givenli dizayn yapaniz.

@@ -1,0 +1,20 @@
+Static ve Static olmayan farki ve kullanim amaci
+-STATIC metodlar
+ 1) Basina static kelimesi getirilir
+ 2) Nesneyi degil GENEL'i yani tum nesneleri kapsayan, yani nesne
+    bagimsiz metodlari nesne olusturmadan kullanmak icin olusturulur.
+ 3) Bu metodlara Nesne ozelliginde degil, TIP'e ait metodlar oldugu icin
+    TIP adi ile direkt kullanilabilirler
+ 4) Buna uygun Javada var olan ornek static metodlar Math.random gibi
+    veya Integer.parseInt() gibi fonksiyonlardir.
+
+ -STATIC olmayan metodlar
+  1)Bu metodlar nesne ozelliginde calisan metodlardir.
+  2)Nesne ozelinde nesneye ait degerlerle calismak zorunda oldugu icin
+    mutlaka new ile nesne olusturulup, nesne degiskeni ile kullanilirlar.
+
+
+ Yani nesne ozelliklerine ihtiyac duyarak calisacak metodlar normal metodlardir.
+      nesne ozelliklerine ihtiyac duymayarak calisacak metodlar geneli ilgilendirdigi icin
+      TIP'e ait olmasi gerektiginden basina static koyularak direkt TIP adi ile birlikte
+      kullanilirlar

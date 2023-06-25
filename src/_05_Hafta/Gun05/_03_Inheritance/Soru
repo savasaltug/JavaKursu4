@@ -1,0 +1,7 @@
+Calisan isminde bi class tanamlayaniz properties/fields(isim, maas, maasKatSayisi(int))
+consructor ve maashesapla Metodu(maas*maasKatSayisi) ekleyiniz. toString metodu ekLeyiniz.
+GenelMudur isimli bir classi Calisan sinifindan turetip, extra field olarak tazminat ekleyiniz.
+GenelMudur classinda maasHesaplaya tazminat da ekleyiniz.
+
+SirketMain diye yazacaginiz main in oldugu yerde, 1 calasan ve 1 GenelMidir tanimlayarak,
+maaslari hesaplatip, bordroyu yazdaraniz.

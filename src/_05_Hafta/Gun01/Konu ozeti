@@ -1,0 +1,17 @@
+Access Modifiers (Eirsim belirtecleri, izinleri)
+public, private, protected, default(hi¢ bir sey yazilmayan durum, friendly)
+1-Classin iginden erisim
+2-paketin iginden erisim
+3-projenin iginden erisim
+
+public : projenin her tafanindan erisim,yani diger tim panketler erisebilir.
+class, metod, field
+
+default: (friendly) : bir belirtec yazzilmazsa : Sadece bulundugu pakettekielr erisebilir.
+class, metod, field
+
+private: sadece classin iginden erisim :
+metod, field
+
+protected : default ayni calisir, bir 6zelligi var, 3 konu sonra extra durumu
+icin donulecek buraya

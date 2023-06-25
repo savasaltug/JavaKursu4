@@ -1,0 +1,10 @@
+
+1- Arac isimli bir superclass olusturunuz, fields : renk, motorHacai, marka olsun.
+2- Consructor ekleyiniz.get ve set metodlara ve toString Metodunu ekleyiniz.
+
+3- Bu sanaften Otobus sinzfini Oretiniz, otobusun ayrica yolcuKapasitesi field ini ekleyiniz.
+4- Bir AracPark isimli i¢inde main olan bir sinaf olucturunuz ve Otobus ten
+   nesne olugturarak, Otobusun 6zelliklerinin tUmdn0 ekrana yazdiraniz.
+
+
+

@@ -1,0 +1,15 @@
+int[]
+index var  : dizi[i]
+for i (sira garanti cunku index'e gore gidiyor)
+foreach ( sira garanti degil)
+
+Arraylist
+index var : (get(i))
+for i ( sira garanti cunku index'e gore gidiyor)
+foreach (sira garanti degil)
+
+SET'lerde
+index YOK
+for i YOK
+foreach ( sira garanti degil)
+garanti istiyorsan ITERATOR yontemi

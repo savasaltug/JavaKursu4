@@ -1,0 +1,44 @@
+1.85L0m
+void taste()
+double ucret()
+bir interface yaziniz.
+
+2.bolum'de
+
+Asagadaki metodlari olan classlari yaziniz. Food'dan implament alarak:
+
+
+
+
+AdanaKebab: void marinade(), grill()
+Lahmacun: dough(), addMeat(), bake()
+Borsh: boil(), eatTonorrow()
+
+Palov: fry(), boil()
+
+
+
+
+
+3.bolum
+TechnoCafe isimli class da ki main metodunda kuLlanacaya menude sunarak
+kullanaca tamam secenegini secene kadar yenek siparisini aliniz.
+Sdev:secim sonrasi kag adet oldugunu da alanaz.
+
+Bu yemekleri bir ArrayList'e ekleyeiniz.
+
+********Menu*********
+
+1-Adana Kebap (55 TL)
+
+2-Lahmacun (33 TL)
+
+3-Borsh (33 TL)
+
+4-Palov (44 TL)
+
+0-Taman
+
+4, Verilen siparisleri main de bir dongu vasatasayla TechnoKitchen isimli
+classa tek tek gondererek hazirlatiniz, ve Ocret bilgisini olusturup.
+yazdiriniz.

@@ -1,0 +1,10 @@
+iginde name field 2 olan Sekil isimli bir Abstract Class yazinaz.
+
+Bu classin Alan ve cevre abstract metodlari ve igind eAlan ve cevre nin sonucu olan toString somut metodu,
+Kilin adina veren getName somut metodu ve ciz isimli somut metodlarini ekleyiniz.
+
+Bu sanaftan Dikdértgen ve Daire isimli 2 class olusturunuz.
+
+Bunlardan birer Srnek main metodunda calastaraniz.
+
+

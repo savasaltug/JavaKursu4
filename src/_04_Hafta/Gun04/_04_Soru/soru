@@ -1,0 +1,6 @@
+                // Ogretmen icin not defteri programi yapilmak isteniyor
+                // Her ogrencinin okulNo(int), tamAdi(String) ve notu(int) vardir.
+                // Ogretmenden 20 ogrenci icin bu bilgileri aliniz.
+                // Butun ogrencileri bir metodda yazdiriniz.
+                // sinifin not ortalamasini yine bir metodda yazdiriniz.
+                // gerekli Class(lar) icin ayri dosya aciniz.

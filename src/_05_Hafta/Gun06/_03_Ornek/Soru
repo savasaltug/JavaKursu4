@@ -1,0 +1,6 @@
+Ogrenc’ isiali id,isim ve tipi(ENUM ILK,ORTA,LISE) olan bir class olugturunuz.
+LiseOgrencisi adInda Ogrenci sinafindan bir sinif Getiriniz, field: brans (String, MF,TM)
+fkOgrencisi adanda Ogrenci sanafindan bir sinif Oretiniz, filed: Klup (String SATRANC, TIYATRO ..)
+Okul isimli mainde 3 adet farkla tipte dgrenci olusturunuz,
+
+Olusturuken her Sgrenciye, Ogrenci sinafinda tanialanmag bir sayactan no veriniz.

@@ -1,0 +1,20 @@
+//  1-fieldlari ad, soyad, yas olan bir Ogrenci sinafa tanamlayiniz.
+//
+//  2-Ogrenci sanifina ad, soyad ve yas dan olugan bir consructor tanamlayiniz.
+//  -
+//  3-Bitin fieldlar icin encapsulation uygulayiniz.
+//  -
+//  4-okul isimli bir class tanimlayiniz, fieldlara okvlAd, kontenjan,
+//  -
+//  -ArrayList cinsinden Ogrencileri olsun.
+//  -
+//  5-main metodunun oldugu OkulMain isimli bir sinif olusturunuz.
+//  -
+//  6-bir okul nesnesi olusturup, bu okvla max Sgrenci miktarana vlagana kadar kuLlanicadan alarak
+//  -orenci ekleyiniz. Fakat olusturacaginiz dgrencilerin yagi 15 i gecmeneli.
+//  -
+//  -bu yaga gegen bir grenci eklenmek istenir ise yerine bagka dgrenci isteyiniz.
+//  -
+//  7-OGgrencilerin hepsine essiz bir ID atamasa yapaniz.
+//  -
+
